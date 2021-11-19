@@ -1,6 +1,7 @@
 # clavier-francais-majuscules-accentuees
 Clavier Français aux majuscules accentuées
 
+TODO
 
 - Décrire les layouts (espaces insécables carré² cube³ 100% 1000‰ ÉÈÀŒÆÇ)
 - captures avec clavier visuel normal, shift, altgr, shift + altgr
